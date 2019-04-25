@@ -63,5 +63,5 @@
                 event.preventDefault();
             });
         });
-    })
+    });
 })(window);
